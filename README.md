@@ -1,7 +1,6 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+# Project : Weather_Condition_App 
 
-# Project-006 : Weather_Condition_App (JS-06)
+## Website: https://omerfdasar.github.io/weatherApp/
 
 ## Description
 Project aims to display current weather data of searched city around the world with fetching Weather Api data.
